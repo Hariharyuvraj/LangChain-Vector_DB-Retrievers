@@ -1,0 +1,12 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-anthropic
+langchain-huggingface
+python-dotenv
+grandalf
+openai
+huggingface_hub
+tiktoken
+pydantic
